@@ -1,4 +1,4 @@
-# Dynamic String Manipulator
+# Dynamic C-String Manipulator
 
 ### Description:
 * This is a dynamic C-string library I created to do string manipulation through `char *`, as C language does not provide a library for such thing.
